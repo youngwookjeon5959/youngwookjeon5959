@@ -10,6 +10,7 @@ My Tech Stack
 ![Phtoshop](https://img.shields.io/badge/-adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-adobeillustratoradobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustratorp&logoColor=white)
 ![Figma](https://img.shields.io/badge/-figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Intellij IDEA](https://img.shields.io/badge/-intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 <!--
 **youngwookjeon5959/youngwookjeon5959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
